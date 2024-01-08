@@ -1,0 +1,28 @@
+/* styles.css */
+
+/* Customize the body background color */
+body {
+  background-color: #f8f8f8;
+}
+
+/* Customize the header background color */
+.header {
+  background-color: #333;
+  color: white;
+}
+
+/* Customize the sidebar background color and text color */
+.sidebar {
+  background-color: #222;
+  color: white;
+}
+
+/* Customize the tab background color */
+.tab-content {
+  background-color: #fff;
+}
+
+/* Customize the box title color */
+.box-title {
+  color: #333;
+}

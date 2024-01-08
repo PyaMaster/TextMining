@@ -1,0 +1,12 @@
+name: TextMining
+title: TextMining
+username: vic1106
+account: vic1106
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10882205
+bundleId: 8119800
+url: https://vic1106.shinyapps.io/TextMining/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
