@@ -1,10 +1,9 @@
 # 🧠 TextMining App
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 **TextMining** is an interactive web application built with **R** and **Shiny** for performing basic text mining operations on uploaded documents. Users can preprocess text data, visualize word frequencies using word clouds and bar plots, and analyze word associations—all from a user-friendly interface.
 
 🔗 **Try it online**: [https://pyamaster.shinyapps.io/TextMining/](https://pyamaster.shinyapps.io/TextMining/)
-
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
 ## 🚀 Features
