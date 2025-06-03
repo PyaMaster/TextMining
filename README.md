@@ -53,12 +53,12 @@ install.packages(c(
   "shinyEffects", "bs4Dash", "DT", "tidyverse", "stringr",
   "tm", "SnowballC", "wordcloud", "RColorBrewer"
 ))
-```r
+```
 
 ## ▶️ Running the App Locally
 
-Clone this repository or download the source code.
+1. Clone this repository or download the source code.
 
-Open the project in RStudio.
+2. Open the project in RStudio.
 
-Launch the app using:
+3. Launch the app using:
