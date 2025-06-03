@@ -4,7 +4,6 @@
 
 🔗 **Try it online**: [https://pyamaster.shinyapps.io/TextMining/](https://pyamaster.shinyapps.io/TextMining/)
 
----
 
 ## 🚀 Features
 
@@ -14,7 +13,6 @@
 - 📊 Display bar plots of the most frequent words
 - 🔗 Explore word associations based on correlation thresholds
 
----
 
 ## 🖥️ Application Overview
 
@@ -35,7 +33,6 @@ The application consists of three main tabs:
 - Adjust the minimum correlation threshold  
 - View associations in a downloadable table  
 
----
 
 ## 🛠️ Technologies & Libraries
 
@@ -45,7 +42,6 @@ The application consists of three main tabs:
 - `DT` – Interactive tables  
 - `tidyverse` – Data manipulation  
 
----
 
 ## 📦 Installation
 
@@ -57,4 +53,5 @@ install.packages(c(
   "shinyEffects", "bs4Dash", "DT", "tidyverse", "stringr",
   "tm", "SnowballC", "wordcloud", "RColorBrewer"
 ))
+
 
