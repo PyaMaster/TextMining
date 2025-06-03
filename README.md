@@ -55,3 +55,10 @@ install.packages(c(
 ))
 
 
+## ▶️ Running the App Locally
+
+Clone this repository or download the source code.
+
+Open the project in RStudio.
+
+Launch the app using:
