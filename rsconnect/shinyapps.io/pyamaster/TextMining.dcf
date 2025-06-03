@@ -1,12 +1,5 @@
 name: TextMining
 title: TextMining
 username: pyamaster
-account: pyamaster
-server: shinyapps.io
-hostUrl: https://api.shinyapps.io/v1
-appId: 11111015
-bundleId: 8210017
 url: https://pyamaster.shinyapps.io/TextMining/
 version: 1
-asMultiple: FALSE
-asStatic: FALSE
