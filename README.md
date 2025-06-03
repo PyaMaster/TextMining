@@ -56,9 +56,31 @@ install.packages(c(
 ```
 
 ## ▶️ Running the App Locally
-
 1. Clone this repository or download the source code.
-
 2. Open the project in RStudio.
-
 3. Launch the app using:
+
+```r
+shiny::runApp()
+```
+
+## 📄 Example Input
+- Upload a plain text file (`.txt`)
+- Choose preprocessing options (e.g., stemming, stopwords, etc.)
+
+## ✅ Sample Use Case
+This app is ideal for:
+- Teaching basic text mining concepts
+- Quick exploration of textual data
+- Identifying key terms and their relationships in small corpora
+
+## 📌 Known Limitations
+- Only supports single plain-text documents
+- No multi-language analysis per document
+- No advanced NLP features (e.g., topic modeling, sentiment analysis)
+
+## 📬 Feedback & Contributions
+Feel free to open issues or pull requests to suggest improvements, report bugs, or contribute enhancements.
+
+## 📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
