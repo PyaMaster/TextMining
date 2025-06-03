@@ -4,6 +4,8 @@
 
 🔗 **Try it online**: [https://pyamaster.shinyapps.io/TextMining/](https://pyamaster.shinyapps.io/TextMining/)
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 ## 🚀 Features
 
