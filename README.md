@@ -53,7 +53,7 @@ install.packages(c(
   "shinyEffects", "bs4Dash", "DT", "tidyverse", "stringr",
   "tm", "SnowballC", "wordcloud", "RColorBrewer"
 ))
-
+```r
 
 ## ▶️ Running the App Locally
 
