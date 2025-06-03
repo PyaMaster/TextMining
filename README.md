@@ -84,4 +84,4 @@ This app is ideal for:
 Feel free to open issues or pull requests to suggest improvements, report bugs, or contribute enhancements.
 
 ## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](/LICENCE.txt) file for details.
+This project is licensed under the MIT License. See the [LICENSE](/LICENSE.txt) file for details.
